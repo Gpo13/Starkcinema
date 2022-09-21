@@ -1,0 +1,25 @@
+img{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: groove;
+    float: unset;
+    right: 1000px;
+}
+
+p{
+    text-align: center;
+}
+
+#email{
+    width: 400px;
+    height: 40px;
+}
+
+#pass{
+    width: 400px;
+    height: 40px;
+
+}
+
